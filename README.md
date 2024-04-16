@@ -1,8 +1,18 @@
-# WebCRUD
-silahkan di Lihat,Ambil,Modifikasi (LAM)
+# Sistem data mahasiswa pengkodean dan pemrograman
 
 TAMPILAN WEBSITE
-![gambar](https://user-images.githubusercontent.com/100106630/162618264-44bcdab9-7a52-4587-84d4-e4f3c4f0930a.png)
-![gambar](https://user-images.githubusercontent.com/100106630/162618268-0a9a58a8-3ebf-40ed-ab61-367999d0e839.png)
-![gambar](https://user-images.githubusercontent.com/100106630/162618296-f795d63d-b945-444d-87ee-e419efb3a075.png)
-![gambar](https://user-images.githubusercontent.com/100106630/162618348-9e8a5b09-c24c-4a51-83e5-567c1e829c94.png)
+
+<img width="960" alt="tampilan login" src="https://github.com/jenzzzttt/Sistem-Data-Mahasiswa/assets/149465778/7bc74e99-fd00-45e2-bf0c-d00915422607">
+<img width="960" alt="tampilan login new" src="https://github.com/jenzzzttt/Sistem-Data-Mahasiswa/assets/149465778/12bcc363-b728-41ab-9b62-e110e4fc7ae3">
+perbedaan dari gambar tampilan login tersebut yaitu terletak pada judulnya
+
+<img width="960" alt="tampilan home" src="https://github.com/jenzzzttt/Sistem-Data-Mahasiswa/assets/149465778/e9dc28af-64e9-4d12-8678-329ff1073368">
+<img width="960" alt="tampilan home fix" src="https://github.com/jenzzzttt/Sistem-Data-Mahasiswa/assets/149465778/04ad6f8e-350c-47df-b55c-399fcac6b8d2">
+perbedaannya terletak pada:
+1. judulnya yaitu berubah menjadi sistem data mahasiswa pengkodean dan pemrograman
+2. pada tabel yang terakhir awalnya aksi berubah menjadi keterangan 
+3. pada footer terdapat nama dan NIM yaitu Naila Rif'ah Amelia (12030122130143)
+
+<img width="960" alt="tampilan ubah data siswa" src="https://github.com/jenzzzttt/Sistem-Data-Mahasiswa/assets/149465778/a59c41cc-4c7f-4f85-952d-8044700edd48">
+<img width="960" alt="tampilan ubah data siswa new" src="https://github.com/jenzzzttt/Sistem-Data-Mahasiswa/assets/149465778/9785f9eb-4de5-4f37-abc7-e910f0a5937a">
+perbedaannya yitu bisa menambah jurusan akuntansi dan mengubah gambar
